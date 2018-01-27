@@ -1,4 +1,4 @@
-# VBA-to-remove-all-selected-blanks
+# Advanced Spreadsheet Analysis
 
 Summary:
 •	Created interactive dashboard to monitor store performance and dynamically compare sales target and actual sales daily with Excel
